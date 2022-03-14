@@ -1,3 +1,6 @@
+package com.mycompany.mensajes_app;
+
+import java.util.Scanner;
 
 public class Inicio {
         
