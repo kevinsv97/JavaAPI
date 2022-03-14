@@ -15,7 +15,7 @@ public class Inicio {
             System.out.println(" 1. Crear mensaje");
             System.out.println(" 2. Listar mensajes viendo que haces");
             System.out.println(" 3. Editar un mensaje hola mas");
-            System.out.println(" 4. Eliminar un mensaje");
+            System.out.println(" 4. Eliminar un mensaje sissa");
             System.out.println(" 5. Salir");
             // se lee la opcion del usuario
             opcion = sc.nextInt();
